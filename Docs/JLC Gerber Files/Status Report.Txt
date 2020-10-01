@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [StEth32_modLED.PcbDoc]
+   Generated File[StEth32_modLED.TXT]
+   Generated File[StEth32_modLED.LDP]
+   Generated File[StEth32_modLED.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:32:17 On 01.10.2020
